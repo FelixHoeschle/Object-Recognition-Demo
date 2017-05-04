@@ -18,6 +18,6 @@ The concept can be used to replace barcode scanners. The current version is trai
 - CNN is trained on the extracted pictures
 
 #### Further plans
-- Apply Mask R-CNN to do checkout with one snapshot
+- Apply Mask R-CNN to do detect several items with one snapshot
 - Reproduce Keras code in TensorFlow
 
