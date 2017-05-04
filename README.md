@@ -23,10 +23,8 @@ The demo includes several advantages:
 - Easy to train:
  Make a video of each product. Give it a name. Run the iPython notebook.
  Result: Trained model, ready to classify each Prodcut
-
 - Scaleabilty:
  The model can be trained once for all stores. The model can reside in the cloud.
-
 - Flexibility:
  This exact model can be used for everything from bakery goods to fruits, candy or screws
  
