@@ -20,19 +20,24 @@ The iPython notebook contained in this demo conducts the following steps:
 
 #### How this could work in real life
 The demo includes several advantages:
--Easy to train:
+- Easy to train:
  Make a video of each product. Give it a name. Run the iPython notebook.
  Result: Trained model, ready to classify each Prodcut
 
--Scaleabilty:
+- Scaleabilty:
  The model can be trained once for all stores. The model can reside in the cloud.
 
--Flexibility:
+- Flexibility:
  This exact model can be used for everything from bakery goods to fruits, candy or screws
  
 #### Why this works
 The video clip can be shot infront of a controlled environment. The cashier can take the picture the same way.
 This makes the object recognition method very reliable.
+
+#### How well it is working so far
+
+The version that is currently uploaded here is trained on 3 different bakery items that look very similar.
+It achieves 100% accuracy. The reason is that environment is very controlled, compared to most object recognition implementations.
 
 #### Next steps
 Add image segmentation: If object segmentation is added to the code, it would be possible to do checkout by simply taking a picture of the entire shopping basket.
