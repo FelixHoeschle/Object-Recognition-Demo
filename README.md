@@ -1,4 +1,9 @@
 ## Deep Learning Demo:
 ### Object Recognition for supermarket checkout
 
-This demo uses a deep convolutional neural network for object recognition.
+#### Summary
+This demo applies a deep convolutional neural network for object recognition.
+It could be used to make super market checkouts for products that don't have bar codes easier.
+
+#### Problem:
+
