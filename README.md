@@ -1,5 +1,5 @@
-#Deep Learning Use Case:
-##Super market check out with Object Recognition
+# Deep Learning Use Case:
+## Super market check out with Object Recognition
 
 **Motivation:** There is many tutorials for object recognition with deep learning. Many use of-the-shelf data sets like MNIST or CIFAR.
 
